@@ -17,7 +17,7 @@
 | `GITHUB_BRANCH` | `main` | 备份使用的分支名称 |
 | `ZIP_PASSWORD` | 你的压缩包密码 | 备份压缩包加密密码 |
 | `NZ_UUID` | `f8ff434*************62e0` | 当前 Agent 的 UUID，用于探针上报 |
-| `NZ_CLIENT_SECRET` | `kDerKiyNp*************mvj0XMy` | 备份中 `.yaml` 文件里的 `agentsecretkey` 参数 |
+| `NZ_CLIENT_SECRET` | `kDerKiyNp*************mvj0XMy` | 备份文件中 `.yaml` 文件里的 `agentsecretkey` 参数 |
 | `NZ_TLS` | `true` | 是否启用 TLS（`true`/`false`） |
 | `DASHBOARD_VERSION` | `v1.14.1` | 指定部署的面板版本 |
 
